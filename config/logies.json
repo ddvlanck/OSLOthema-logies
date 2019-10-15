@@ -1,0 +1,17 @@
+[
+  {
+    "name": "logies",
+    "type": "voc",
+    "eap": "OSLO-Logies.eap",
+    "diagram": "OSLO-Logies",
+    "template": "logies-voc.j2",
+    "title": "Logies",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/Standaard",
+    "publication-date": "2019-03-14",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Logies",
+    "site": "site-skeleton",
+    "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/kandidaat-standaarden/vocabularium-toerisme-vlaanderen-logies/"
+  }
+]

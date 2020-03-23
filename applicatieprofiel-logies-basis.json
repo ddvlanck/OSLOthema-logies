@@ -1,5 +1,5 @@
 {
-  "naam": "Vocabularium Toeristische Logies",
+  "naam": "Applicatieprofiel Toeristische Logies Basis",
   "verantwoordelijke_organisatie": "Toerisme Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO000034",
   "publicatiedatum": "2019-12-05",
@@ -7,8 +7,8 @@
   "categorie": "Vocabularium & applicatieprofielen",
   "specificatiedocument": [
     {
-      "naam" : "Vocabularium Logies",
-      "waarde" : "https://data.vlaanderen.be/ns/logies"
+      "naam" : "Applicatieprofiel Logies Basis",
+      "waarde" : "https://data.vlaanderen.be/doc/applicatieprofiel/logies-basis/"
     }
   ],
   "documentatie": [],
